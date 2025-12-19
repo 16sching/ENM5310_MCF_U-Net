@@ -2,7 +2,7 @@
 
 **Authors:** Michael Chiou, Stephen Ching, Quan Vo  
 **Course:** ENM 5310  
-**Notebook:** `flax_CNN.ipynb` (adapted from course template)
+**Notebook:** `ENM5310_Project_Notebook.ipynb` (adapted from course template)
 
 ---
 
