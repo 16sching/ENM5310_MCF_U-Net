@@ -1,5 +1,3 @@
-%% Final Adapted MATLAB Script: 2D Fibril Angle Analysis with Visualization
-
 clc; clear; close all;
 
 % Get all TIFF files in the current directory
